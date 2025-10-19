@@ -5,40 +5,30 @@ export const de = {
     {
       name: "Sozialdemokratische Partei Deutschland (SPD)",
       color: "#eb001f",
-      deputies: 207,
+      deputies: 120,
     },
     {
       name: "Union",
       color: "#161a1d",
       deputies: [
-        { name: "Christlich Demokratische Union", deputies: 152 },
-        { name: "Christlich-Soziale Union", deputies: 45 },
+        { name: "Christlich Demokratische Union", deputies: 164 },
+        { name: "Christlich-Soziale Union", deputies: 44 },
       ],
     },
     {
       name: "Bündnis 90/Die Grünen",
       color: "#64a12d",
-      deputies: 118,
-    },
-    {
-      name: "Freie Demokratische Partei (FDP)",
-      color: "#ffed00",
-      deputies: 92,
+      deputies: 85,
     },
     {
       name: "Alternative für Deutschland (AfD)",
       color: "#009ee0",
-      deputies: 78,
+      deputies: 151,
     },
     {
       name: "Die Linke",
       color: "#be3075",
-      deputies: 28,
-    },
-    {
-      name: "Bündnis Sahra Wagenknecht (BSW)",
-      color: "#7D254F",
-      deputies: 10,
+      deputies: 64,
     },
     {
       name: "Unaffiliated",
@@ -49,12 +39,8 @@ export const de = {
           deputies: 1,
         },
         {
-          name: "Alternative für Deutschland (AfD)",
-          deputies: 1,
-        },
-        {
           name: "Independent",
-          deputies: 4,
+          deputies: 1,
         },
       ],
     },
